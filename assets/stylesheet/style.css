@@ -26,3 +26,7 @@
 .footer{
     background-color: aqua;
 }
+p{
+    text-size-adjust: 30px;
+    color:red
+}
