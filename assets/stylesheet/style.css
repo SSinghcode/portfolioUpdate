@@ -1,3 +1,5 @@
+
+
 .img1{
     margin-top: 20px;
     height:200px;
@@ -11,5 +13,16 @@
 }
 
 .footer{
-    align-items: center;
+    text-align: center;
+}
+.application{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.contact{
+    margin-top: 40px; 
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: aqua;
 }
