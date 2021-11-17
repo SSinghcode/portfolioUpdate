@@ -11,6 +11,6 @@ Add ons
 Please click on carousel to cycle through all projects screenshots 
 Each project listed with title, deployment URL, GitHub URL, and a screenshot
 Portfolio contain links to GitHub profile, LinkedIn Profile, or Resume PDF
-link to github :https://github.com/SSinghcode/portfolioUpdate
 
+link to github :https://github.com/SSinghcode/portfolioUpdate
 link to deployed webage:-https://ssinghcode.github.io/portfolioUpdate/
