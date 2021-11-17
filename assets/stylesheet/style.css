@@ -1,8 +1,8 @@
 
 
-.opc{
-  
-    opacity: .2;
+.img1{
+    margin-top: 20px;
+    height:200px;
    
     
 }
@@ -29,4 +29,19 @@
 p{
     text-size-adjust: 30px;
     color:red
+}
+
+.carousel-caption{
+    background-color: black;
+
+}
+
+h5{
+    color:white;
+    /* background-color: black; */
+}
+
+p{
+    color:white;
+    /* background-color: black; */
 }
